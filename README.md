@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🤔🤔🤔🤔
 
 <!--
 **dongsub-joung/dongsub-joung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
++ Sociology, Economics, Philosophy, Psychology: 😁
++ Japanese: 😄
++ My programming skill: 😱😵
++ Interest at C, C++: 😍🥰
