@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 + Sociology, Economics, Philosophy, Psychology: 😁
 + Japanese: 😄
-+ My programming skill: 😱😵
 + Interest at C, C++: 😍🥰
