@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 + Sociology, Economics, Philosophy, Psychology: 😁
 + Japanese: 😄
-+ Interest at C, C++: 😍🥰
++ C++, Python: 😍🥰
