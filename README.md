@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ Sociology, Economics, Philosophy, Psychology: 😁
-+ Japanese: 😄
 + C++, Python: 😍🥰
++ Django
