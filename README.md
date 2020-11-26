@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 + C++, Python: 😍🥰
-+ Django, 
++ Django, Rust
