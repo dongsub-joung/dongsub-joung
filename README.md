@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 + C++, Python: 😍🥰
 
 ## Planned roadmap
-Django + (AWS + Docker)  => backend
+Django + (AWS + Docker)
 
 ## New roadmap
 JSP/Spring + nodeJS + Docker
