@@ -2,3 +2,5 @@
 
 
 ![bloody_monday_wallpaper__japanese_drama__by_kuname_d51ke32-fullview](https://github.com/dongsub-joung/dongsub-joung/assets/59364300/10a8afa7-3b33-47bf-ae14-e780c01a7481)
+
+![mr robot](https://github.com/dongsub-joung/dongsub-joung/assets/59364300/64b0fbad-e30e-43ee-9965-90a7a2298748)
