@@ -1,6 +1,3 @@
+![h1](https://github.com/user-attachments/assets/b561355b-c45e-44d0-acdb-4dca19d75996)
+
 ![ec18fe47393655 5878dc40e26b6](https://github.com/dongsub-joung/dongsub-joung/assets/59364300/6d5f6201-2380-4028-aaee-ca4a5daa3c16)
-
-
-![bloody_monday_wallpaper__japanese_drama__by_kuname_d51ke32-fullview](https://github.com/dongsub-joung/dongsub-joung/assets/59364300/10a8afa7-3b33-47bf-ae14-e780c01a7481)
-
-![mr robot](https://github.com/dongsub-joung/dongsub-joung/assets/59364300/64b0fbad-e30e-43ee-9965-90a7a2298748)
