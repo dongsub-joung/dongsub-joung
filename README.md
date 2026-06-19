@@ -1,10 +1,10 @@
 # My Tools   
 
-[![My tools(https://skillicons.dev/icons?i=neovim,vscodium)](https://skillicons.dev)
+[![My tools](https://skillicons.dev/icons?i=neovim,vscodium)](https://skillicons.dev)
 
 # System engineer skill set   
 
-[![My system engineer(https://skillicons.dev/icons?i=rust,c,cpp)](https://skillicons.dev)
+[![My system engineer](https://skillicons.dev/icons?i=rust,c,cpp)](https://skillicons.dev)
 
 - [CPP - /Server_Project](https://github.com/dongsub-joung/Server_Project)   
 - [CPP - /Server_ProjectV4](https://github.com/dongsub-joung/Server_ProjectV4)
