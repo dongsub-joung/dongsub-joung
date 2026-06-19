@@ -1,6 +1,6 @@
 # My Tools   
 
-[![My tools](https://skillicons.dev/icons?i=neovim,vscodium)](https://skillicons.dev)
+[![My tools](https://skillicons.dev/icons?i=neovim,vscodium,sublime)](https://skillicons.dev)
 
 # System engineer skill set   
 
