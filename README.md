@@ -1,3 +1,7 @@
+# My main programming languages
+
+[![My system engineer](https://skillicons.dev/icons?i=rust,ruby)](https://skillicons.dev)
+
 # My Tools   
 
 [![My tools](https://skillicons.dev/icons?i=neovim,vscodium,sublime)](https://skillicons.dev)
