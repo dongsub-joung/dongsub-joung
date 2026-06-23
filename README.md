@@ -31,6 +31,6 @@
 
 # Some Started(low) skill set
 
-[![My new skills](https://skillicons.dev/icons?i=ruby,zig)](https://skillicons.dev)
+[![My new skills](https://skillicons.dev/icons?i=zig)](https://skillicons.dev)
 
 - [/atcoder](https://github.com/dongsub-joung/atcoder)
