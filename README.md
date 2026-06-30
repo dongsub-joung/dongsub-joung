@@ -15,7 +15,7 @@
 
 # Back-End skill set   
 
-[![My JS](https://skillicons.dev/icons?i=actix,spring)](https://skillicons.dev)
+[![My JS](https://skillicons.dev/icons?i=actix)](https://skillicons.dev)
 
 - [/backend-server](https://github.com/dongsub-joung/backend-server)   
 - [/japanese-TTS on Windows](https://github.com/dongsub-joung/japanese-TTS)
