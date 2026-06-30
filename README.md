@@ -1,6 +1,6 @@
 # My main programming languages
 
-[![My system engineer](https://skillicons.dev/icons?i=rust,java,ruby)](https://skillicons.dev)
+[![My system engineer](https://skillicons.dev/icons?i=rust,ruby,java)](https://skillicons.dev)
 
 # My Tools   
 
