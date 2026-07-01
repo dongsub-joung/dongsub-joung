@@ -1,3 +1,6 @@
+<img width="540" height="360" alt="360_F_1637509829_d96pLVbbTkhS6FeP4oh9gJU14swqLLuB" src="https://github.com/user-attachments/assets/288ca1d7-5285-48df-a888-3c3bd30d2f01" />
+
+
 # My main programming languages
 
 [![My system engineer](https://skillicons.dev/icons?i=rust,ruby,java)](https://skillicons.dev)
